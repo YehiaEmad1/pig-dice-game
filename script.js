@@ -56,7 +56,7 @@ hold.addEventListener("click", function () {
     diceImg.classList.add("hidden");
     roll.style.display = "none";
     hold.style.display = "none";
-  } else {
+  } else if (score2 >= 100) {
     document.querySelector(".score2").textContent = `player 2 wins`;
     diceImg.classList.add("hidden");
     roll.style.display = "none";
