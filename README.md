@@ -1,4 +1,5 @@
 the live site : https://famous-fox-90d449.netlify.app <br />
+<br />
 Game description:<br />
 as you press roll dice an image of a dice will show up and generate a random number between 1 to 6 <br />
 if the number is not 1 it will be added to the current score and if the number is 1 the game will switch to the other player <br />
